@@ -7,7 +7,7 @@
     <div class="flex justify-center p-10 text-7xl sm:text-8xl caramel-regular">
       Dress Guide
     </div>
-    <div class="namdhinggo-regular text-[18px]  w-[300px] sm:w-[350px] mx-auto text-slate-700 text-center mb-10">
+    <div class="namdhinggo-regular text-[18px]  w-[300px] sm:w-[350px] mx-auto text-center mb-10">
       We’d love for our wedding day to be a chance for everyone to dress up and shine!
     </div>
     <div class="text-center namdhinggo-bold text-[23px] font-bold">
@@ -19,7 +19,7 @@
     <div class="text-center namdhinggo-bold text-[23px] mt-10 font-bold">
       SECONDARY SPONSORS
     </div>
-    <div class="text-center namdhinggo-regular text-[px]">
+    <div class="text-center namdhinggo-regular text-[18px]">
       Formal Attire
     </div>
     <div class="text-center namdhinggo-bold text-[23px] mt-10">

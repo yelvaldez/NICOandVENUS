@@ -1,0 +1,118 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.dancing-script-100 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+.dancing-script-400{
+ font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.dancing-script-500 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.dancing-script-600 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+.dancing-script-700 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+@layer utilities {
+    .text-stroke {
+        -webkit-text-stroke: 1px yellow;
+    }
+}
+
+.lexend-100 {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+.lexend-200 {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+.lexend-300 {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+.lexend-400 {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.lexend-500 {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.lexend-600 {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+.lexend-700 {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.namdhinggo-regular {
+  font-family: "Namdhinggo", serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.namdhinggo-medium {
+  font-family: "Namdhinggo", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.namdhinggo-semibold {
+  font-family: "Namdhinggo", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.namdhinggo-bold {
+  font-family: "Namdhinggo", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.namdhinggo-extrabold {
+  font-family: "Namdhinggo", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+.caramel-regular {
+  font-family: "Caramel", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+

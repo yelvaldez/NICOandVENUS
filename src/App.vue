@@ -21,8 +21,8 @@ import slideBackground2 from '@/assets/images/background2.jpg'
 
     <div>
       <img
-        class="object-cover w-screen object-[26%_20%] sm:object[0%_30%] h-screen"
-        src="@/assets/images/image1.jpg"
+        class="object-cover w-screen object-[13%_20%] sm:object-[0%_74%] h-screen"
+        src="@/assets/images/collage8.jpg"
         alt=""
       >
     </div>

@@ -59,9 +59,9 @@
       </figure>
       <figure class="object-cover w-full col-span-1 sm:col-span-3 rounded overflow-hidden">
         <img
-          src="@/assets/images/collage8.jpg"
+          src="@/assets/images/image1.jpg"
           alt=""
-          class="flex-1 object-cover sm:h-[500px] w-full rounded mx-auto object-[0px_69%] transition duration-300 hover:scale-110 "
+          class="flex-1 object-cover sm:h-[500px] w-full rounded mx-auto object-[0px_30%] transition duration-300 hover:scale-110 "
         >
       </figure>
       <figure class="rounded overflow-hidden col-span-2 sm:col-span-1">

@@ -166,6 +166,9 @@ import slideBackground2 from '@/assets/images/background2.jpg'
     <div class="text-center namdhinggo-regular text-4xl">
       07. 29. 25
     </div>
+    <div class="text-center namdhinggo-regular text-[11px] mt-10 mb-5">
+      © 2025 - MarielleMaeValdez
+    </div>
   </div>
 </template>
 

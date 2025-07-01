@@ -44,10 +44,9 @@ import slideBackground2 from '@/assets/images/background2.jpg'
         RSVP
       </div>
       <iframe
-        class="mx-auto opacity-80"
+        class="mx-auto opacity-80 h-[1550px] sm:h-[1250px]"
         src="https://docs.google.com/forms/d/e/1FAIpQLScS5o8GnKVCWJIQdZ-_yTGRDLFA01yneswa8vkAAUW_deV40A/viewform?embedded=true"
         width="100%"
-        height="1250"
         frameborder="0"
         marginheight="0"
         marginwidth="0"

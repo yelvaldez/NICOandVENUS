@@ -1,7 +1,7 @@
 <script setup lang>
 import {ref} from 'vue'
 import dayjs from 'dayjs'
-const weddingDate = dayjs('07-29-2025')
+const weddingDate = dayjs('2025-07-29')
 
 
 const days = ref(0)
